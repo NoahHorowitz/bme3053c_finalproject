@@ -11,8 +11,8 @@ Running the code:
             malignant/
             normal/
 2) Run each code block in sequence:
-   Cell 1: importing necessary libraries
-   Cell 2: dataset preparation
-   Cell 3: training and test samples
-   Cell 4: classification report
+   a) Cell 1: importing necessary libraries,
+   b) Cell 2: dataset preparation,
+   c) Cell 3: training and test samples,
+   d) Cell 4: classification report
      
